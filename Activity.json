@@ -1,0 +1,26 @@
+{
+	"DurationDays": "31",
+	"Start": "0",
+	"Goal": "110",
+	"StretchGoal": "120",
+	"Activities": [
+		{
+			"Name": "Evening Walk",
+			"Date": "2019-01-01",
+			"Distance": "4.20",
+			"Time": "01:10:40"
+		},
+		{
+			"Name": "Lunch Walk",
+			"Date": "2019-01-02",
+			"Distance": "2.02",
+			"Time": "00:34:22"
+		},
+		{
+			"Name": "Evening Walk",
+			"Date": "2019-01-02",
+			"Distance": "3.00",
+			"Time": "00:48:22"
+		}
+	]
+}
